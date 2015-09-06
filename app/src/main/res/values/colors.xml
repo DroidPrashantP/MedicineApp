@@ -1,0 +1,13 @@
+<resources>
+    <!-- App theme -->
+    <color name="primary">#009688</color>
+    <color name="primary_dark">#004D40</color>
+    <color name="primary_light">#4DB6AC</color>
+    <color name="accent">#FF4081</color>
+    <color name="primary_text">#ffffff</color>
+    <color name="secondary_text">#70ffffff</color>
+    <color name="divider">#12ffffff</color>
+    <color name="window_background">#ffffff</color>
+
+
+</resources>

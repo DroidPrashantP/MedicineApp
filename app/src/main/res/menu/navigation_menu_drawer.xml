@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single"
+    android:id="@+id/group_main">
+    <item
+        android:id="@+id/item_place_order"
+        android:checked="true"
+        android:icon="@drawable/ic_place_order"
+        android:title="@string/nav_item_place_order"
+        />
+
+    <item
+        android:id="@+id/item_medical_history"
+        android:icon="@drawable/ic_history"
+        android:title="@string/nav_item_order_history" />
+    <item
+        android:id="@+id/item_share"
+        android:icon="@drawable/ic_share"
+        android:title="@string/nav_item_share" />
+    <item
+        android:id="@+id/item_about_us"
+        android:icon="@drawable/ic_photo"
+        android:title="@string/nav_item_about_us" />
+</group>
+</menu>
