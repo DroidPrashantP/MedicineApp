@@ -38,6 +38,8 @@ public class OrderNowActivity extends AppCompatActivity {
         }
         return super.onOptionsItemSelected(item);
     }
+
+
     public void setToolbar(){
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle("Place Order");
